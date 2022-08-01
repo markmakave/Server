@@ -8,4 +8,4 @@ db.sqlite
 .swiftpm
 .env
 SSL/
-package.resolved
+Package.resolved
